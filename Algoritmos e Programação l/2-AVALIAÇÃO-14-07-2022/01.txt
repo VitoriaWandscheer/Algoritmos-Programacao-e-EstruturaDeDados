@@ -1,0 +1,19 @@
+Considere o trecho de um algoritmo em pseudocódigo que mostra
+comandos condicionais “ses” aninhados com início e fim:
+
+                        (IMAGEM DO CÓDIGO)
+
+
+Analisando esse trecho, identifique as afirmativas verdadeiras e falsas:
+
+a. ( V ) se T1, T2 e T3 forem verdadeiros, o Comando 1, o Comando 2 e o Comando
+3 serão executados.
+
+b. ( F ) se T1 e T2 forem verdadeiros e T3 falso, o Comando 1, o Comando 2 e o
+Comando 4 serão executados.
+
+c. ( V ) o comando print(T1) será executado independentemente de qualquer valor
+dos testes.
+
+d. ( F ) se T1 e T4 forem verdadeiros e T5 falso, o Comando 5 e o Comando 6 serão
+executados.

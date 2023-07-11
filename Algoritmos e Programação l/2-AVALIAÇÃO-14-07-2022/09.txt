@@ -1,0 +1,19 @@
+Monte o teste de mesa para o código a seguir indicando os valores de cada
+variável e qual a linha está sendo executada.
+
+                        (IMAGEM DO CÓDIGO)
+
+linha a ser
+executada        cont:          acum:
+1                  1               -
+2                  1               0
+4                  1               1
+5                  2               1
+4                  2               3
+5                  3               3
+4                  3               6    
+5                  4               6
+4                  4               10
+5                  5               10
+
+#FIM#
